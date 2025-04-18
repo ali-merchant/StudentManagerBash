@@ -1,19 +1,27 @@
 Welcome to the Student Management System
 
-To run the Program first set up a teachers credentials in the teacher_credential.txt
-If needed also set Students Credentials for student login
+This is a simple, terminal-based Bash project for managing student records and grades.
 
+📌 Setup Instructions:
+  Before running the program, make sure to:
+   - Add teacher credentials to: `teacher_creds.txt`
+   - (Optional) Add student credentials to: `student_creds.txt`
 
-To proceed with the system 
-run the following command first :
-	chmod +x *.sh
-in the respective directory
+  Give execution permissions to all scripts by running the following command:
+   chmod +x *.sh
+ 
+ Start the system using:
+   ./main.sh
 
-then launch the ./main.sh
+💡 Features:
+- Teacher Login: Add, delete, and update student records for your course.
+- Student Login: View your grades and CGPA for all courses you're enrolled in.
 
-this will take you to the front page of the system now you can login as teacher ( add delete students, update marks etc) You can also login as student to see grades of that student for every teachers course he or she is enrolled in 
+Built using pure Bash scripting.
 
-Thank you for being here
-Cheers
-Ali Murtaza
-Aarez Ahmed 
+👥 Authors:
+- Ali Murtaza
+- Aarez Ahmed
+
+Thanks for using our system!
+Cheers 
