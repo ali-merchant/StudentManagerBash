@@ -2,7 +2,7 @@
 #Main file to control flow
 
 source auth.sh
-source student.sh
+source TeacherFunction.sh
 source grades.sh
 
 echo "Welcome to the Student Management System"
