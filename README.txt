@@ -6,7 +6,7 @@ If needed also set Students Credentials for student login
 
 To proceed with the system 
 run the following command first :
-	chmod +x .sh
+	chmod +x *.sh
 in the respective directory
 
 then launch the ./main.sh
